@@ -3,7 +3,6 @@
 ![ISA](https://img.shields.io/badge/RISC--V-RV32IM-blue)
 ![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0404faf8-2102-43c9-b006-a23b83a9e697" />
 
 # Shakti-eclass-core
 This is the E-class core of the SHAKTI Processor family. The core has been completely developed using BSV (Bluespec System Verilog). This is the embedded class processor, built around a 3-stage in-order core. It is aimed at low-power and low compute applications and is capable of running basic RTOSs like FreeRTOS and Zephyr (eChronos is also being ported and will be released soon). Typical market segments include: smart-cards, IoT sensors, motor-controls and robotic platforms
